@@ -1,8 +1,7 @@
 import 'dart:convert';
-import 'dart:math';
 import 'dart:typed_data';
 
-import 'package:bol12_decoder/utils.dart';
+import 'package:dart_bolt12_decoder/utils.dart';
 
 final tagParser = <int, List>{
   0: ['invreq_metadata', (buf) => buf.toString('hex')],

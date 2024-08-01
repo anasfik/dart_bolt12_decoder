@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:bol12_decoder/bol12_decoder.dart';
+import 'package:dart_bolt12_decoder/dart_bolt12_decoder.dart';
 
 void main() {
   final bolt12Offer =

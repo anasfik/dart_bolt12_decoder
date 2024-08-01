@@ -1,8 +1,8 @@
 import 'dart:developer';
 import 'dart:typed_data';
 
-import 'package:bol12_decoder/parser.dart';
-import 'package:bol12_decoder/utils.dart';
+import 'package:dart_bolt12_decoder/parser.dart';
+import 'package:dart_bolt12_decoder/utils.dart';
 import 'package:crypto/crypto.dart';
 
 enum Bolt12Type {

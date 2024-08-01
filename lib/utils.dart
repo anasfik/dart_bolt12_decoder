@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:bol12_decoder/integer.dart';
+import 'package:dart_bolt12_decoder/integer.dart';
 
 List fromwireByte(Uint8List buffer) {
   return IntegerType(buffer, 1).read();
