@@ -1,8 +1,8 @@
 # Bolt 12 decoder.
 
-This is a simple decoder for [BOLT 12]() offers, request and invoices in Dart.
+This is a simple decoder for [BOLT 12](https://bolt12.org/) offers, request and invoices in Dart.
 
-This implementation was inspired by the [BOLT 12 decoder]() project in Javascript.
+This implementation was inspired by the [BOLT 12 decoder](https://github.com/lnbc1QWFyb24/bolt12-decoder) project in Javascript.
 
 ## Usage
 
